@@ -16,6 +16,6 @@ Para clonar este repositorio en tu máquina local, sigue estos pasos:
 4. Ejecuta el siguiente comando:
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/Ch4no-86/TP01-Js
    
 Muchas gracias por visitar mi Repositorio
